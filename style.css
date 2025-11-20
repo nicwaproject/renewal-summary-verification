@@ -229,4 +229,7 @@ textarea {
     .form-title {
         width: 82%;
     }
+    .title {
+       font-size: 16px;
+    }
 }
